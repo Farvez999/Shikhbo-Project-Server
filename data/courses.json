@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Mobile App Development",
+        "price": "8000$",
+        "image": "https://images.unsplash.com/photo-1618761714954-0b8cd0026356?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YXBwJTIwZGV2ZWxvcG1lbnR8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
+        "category_id": 1,
+        "description": "Start here if you are new to programming or new to Mobile App development. These courses show you how to build Mobile apps using best practices recommended by Google. No programming experience needed.",
+        "courses_duration": "6 Months",
+        "starting_date": "Sat, 29 November"
+    },
+    {
+        "id": 2,
+        "name": "Web App Development",
+        "price": "6000$",
+        "image": "https://images.unsplash.com/photo-1585247226801-bc613c441316?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHdlYiUyMGRlc2lnbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+        "category_id": 1,
+        "description": "This course takes you on a journey through the many facets of modern responsive web design. The first few modules will ease you in with a history of where responsive design came from and a look at the fundamentals of responsive layouts. From there, you’ll learn about responsive images, typography, accessibility and more.",
+        "courses_duration": "6 Months",
+        "starting_date": "Sat, 29 November"
+    },
+    {
+        "id": 3,
+        "name": "UI/UX Design",
+        "price": "5000$",
+        "image": "https://images.unsplash.com/photo-1586717799252-bd134ad00e26?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dWklMjB1eCUyMGRlc2lnbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+        "category_id": 2,
+        "description": "UX/UI Design is to create products that provide meaningful and relevant experiences to users. This Involves the design of the entire process of acquiring and integrating the product, including aspects of branding, design, usability and function.",
+        "courses_duration": "6 Months",
+        "starting_date": "Sat, 29 November"
+    },
+    {
+        "id": 4,
+        "name": "Graphics Design",
+        "price": "4000$",
+        "image": "https://images.unsplash.com/photo-1572044162444-ad60f128bdea?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Z3JhcGhpY3MlMjBkZXNpZ258ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
+        "category_id": 2,
+        "description": "Design is thinking made visual to inspire, inform, and captivate consumers. Graphic Designers use a mix of craft, science, storytelling, propaganda, philosophy to develop the overall layout and production design for advertisements, product packaging, computer games, magazines, and corporate reports.",
+        "courses_duration": "4 Months",
+        "starting_date": "Sat, 29 November"
+    },
+    {
+        "id": 5,
+        "name": "Digital Marketing",
+        "price": "3000$",
+        "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGRpZ2l0YWwlMjBtYXJrZXRpbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
+        "category_id": 3,
+        "description": "Business Strategy consists of approximately 30 hours of material delivered over a six-week period. You can complete the coursework on your own time while meeting regular deadlines.",
+        "courses_duration": "3 Months",
+        "starting_date": "Sat, 29 November"
+    },
+    {
+        "id": 6,
+        "name": "Office Management",
+        "price": "2000$",
+        "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8b2ZmaWNlJTIwbWFuYWdlbWVudHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+        "category_id": 3,
+        "description": "Features to help your team succeed Powering a productive team means using a powerful tool (and plenty of snacks). From meetings and projects to events and goal setting, Trello’s intuitive features give any team the ability to quickly set up and customize workflows for just about anything.",
+        "courses_duration": "62 Months",
+        "starting_date": "Sat, 29 November"
+    }
+]
