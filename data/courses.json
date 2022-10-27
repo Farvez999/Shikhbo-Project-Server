@@ -1,26 +1,56 @@
 [
     {
         "id": 1,
-        "name": "Mobile App Development",
+        "name": "Android App Development",
         "price": "8000$",
-        "image": "https://images.unsplash.com/photo-1618761714954-0b8cd0026356?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YXBwJTIwZGV2ZWxvcG1lbnR8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
+        "image": "https://images.unsplash.com/photo-1607252650355-f7fd0460ccdb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YW5kcm9pZCUyMGFwcCUyMGRldmVsb3BtZW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
         "category_id": 1,
-        "description": "Start here if you are new to programming or new to Mobile App development. These courses show you how to build Mobile apps using best practices recommended by Google. No programming experience needed.",
+        "description": "Start here if you are new to programming or new to Android App development. These courses show you how to build Mobile apps using best practices recommended by Google. No programming experience needed.",
         "courses_duration": "6 Months",
         "starting_date": "Sat, 29 November"
     },
     {
         "id": 2,
-        "name": "Web App Development",
-        "price": "6000$",
-        "image": "https://images.unsplash.com/photo-1585247226801-bc613c441316?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHdlYiUyMGRlc2lnbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+        "name": "Flutter App Development",
+        "price": "10000$",
+        "image": "https://images.unsplash.com/photo-1618761714954-0b8cd0026356?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YXBwJTIwZGV2ZWxvcG1lbnR8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
         "category_id": 1,
-        "description": "This course takes you on a journey through the many facets of modern responsive web design. The first few modules will ease you in with a history of where responsive design came from and a look at the fundamentals of responsive layouts. From there, you’ll learn about responsive images, typography, accessibility and more.",
+        "description": "Start here if you are new to programming or new to Flutter App development. These courses show you how to build Mobile apps using best practices recommended by Google. No programming experience needed.",
         "courses_duration": "6 Months",
         "starting_date": "Sat, 29 November"
     },
     {
         "id": 3,
+        "name": "Web Development With JavaScript",
+        "price": "8000$",
+        "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8amF2YXNjcmlwdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+        "category_id": 1,
+        "description": "This course takes you on a journey through the many facets of modern responsive web design With JavaScript. The first few modules will ease you in with a history of where responsive design came from and a look at the fundamentals of responsive layouts. From there, you’ll learn about responsive images, typography, accessibility and more.",
+        "courses_duration": "6 Months",
+        "starting_date": "Sat, 29 November"
+    },
+    {
+        "id": 4,
+        "name": "Web Development With Python",
+        "price": "6000$",
+        "image": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cHl0aG9uJTIwcHJvZ3JhbW1pbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
+        "category_id": 1,
+        "description": "This course takes you on a journey through the many facets of modern responsive web design With Python. The first few modules will ease you in with a history of where responsive design came from and a look at the fundamentals of responsive layouts. From there, you’ll learn about responsive images, typography, accessibility and more.",
+        "courses_duration": "6 Months",
+        "starting_date": "Sat, 29 November"
+    },
+    {
+        "id": 5,
+        "name": "Web Development With PHP",
+        "price": "6000$",
+        "image": "https://images.unsplash.com/photo-1535551951406-a19828b0a76b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHBocCUyMHByb2dyYW1taW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
+        "category_id": 1,
+        "description": "This course takes you on a journey through the many facets of modern responsive web design With PHP. The first few modules will ease you in with a history of where responsive design came from and a look at the fundamentals of responsive layouts. From there, you’ll learn about responsive images, typography, accessibility and more.",
+        "courses_duration": "6 Months",
+        "starting_date": "Sat, 29 November"
+    },
+    {
+        "id": 6,
         "name": "UI/UX Design",
         "price": "5000$",
         "image": "https://images.unsplash.com/photo-1586717799252-bd134ad00e26?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dWklMjB1eCUyMGRlc2lnbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
@@ -30,7 +60,7 @@
         "starting_date": "Sat, 29 November"
     },
     {
-        "id": 4,
+        "id": 7,
         "name": "Graphics Design",
         "price": "4000$",
         "image": "https://images.unsplash.com/photo-1572044162444-ad60f128bdea?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Z3JhcGhpY3MlMjBkZXNpZ258ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
@@ -40,7 +70,7 @@
         "starting_date": "Sat, 29 November"
     },
     {
-        "id": 5,
+        "id": 8,
         "name": "Digital Marketing",
         "price": "3000$",
         "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGRpZ2l0YWwlMjBtYXJrZXRpbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
@@ -50,7 +80,7 @@
         "starting_date": "Sat, 29 November"
     },
     {
-        "id": 6,
+        "id": 9,
         "name": "Office Management",
         "price": "2000$",
         "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8b2ZmaWNlJTIwbWFuYWdlbWVudHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
